@@ -1,0 +1,15 @@
+{
+    "before": {
+      "f1": {"memory": 768, "runtime": 300, "cost": 0.0015},
+      "f2": {"memory": 768, "runtime": 300, "cost": 0.0015},
+      "f4": {"memory": 768, "runtime": 300, "cost": 0.0015},
+      "f5": {"memory": 768, "runtime": 300, "cost": 0.0015}
+    },
+    "after": {
+      "f1": {"memory": 640, "runtime": 360, "cost": 0.00125},
+      "f2": {"memory": 768, "runtime": 300, "cost": 0.0015},
+      "f4": {"memory": 768, "runtime": 300, "cost": 0.0015},
+      "f5": {"memory": 768, "runtime": 300, "cost": 0.0015}
+    }
+  }
+  
